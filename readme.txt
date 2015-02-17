@@ -1,4 +1,4 @@
-=== Nice Responsive WP_FAQ ===
+=== TR_Easy_Google_Analytics ===
 Contributors: BestThemeRoad
 Author URI: https://profiles.wordpress.org/bestthemeroad
 Author: Theme Road
