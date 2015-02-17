@@ -1,7 +1,7 @@
 <?php 
 
 /**
- * Plugin Name: TR_Easy_Google_Analytics
+ * Plugin Name: TR Easy Google Analytics
  * Plugin URI: http://nakshighor.com/plugins/
  * Description: Easy Google analytics is one of the best simple plugin to add or connect your websites with Google analytics.Its really easy for use everyone.Just install the plugin as like other wordpress plugin.And then you will see the analytics options in your dashboard.Then click analytics options and then you see a textarea.You will just copy the Google analytics tracking code and paste here. That's it and you will enjoy now. And Then you will get all kind of visitors reports from Google analytics. Because your all pages of your websites now link up or connected with google Analytics. So, enjoy and don't forget to rated us.
  

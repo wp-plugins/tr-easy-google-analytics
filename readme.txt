@@ -1,4 +1,4 @@
-=== TR_Easy_Google_Analytics ===
+=== TR Easy Google Analytics ===
 Contributors: BestThemeRoad
 Author URI: https://profiles.wordpress.org/bestthemeroad
 Author: Theme Road
