@@ -1,7 +1,7 @@
 === TR Easy Google Analytics ===
 Contributors: BestThemeRoad
 Author URI: https://profiles.wordpress.org/bestthemeroad
-Author: Theme Road
+Author: ThemeRoad
 Donate link: 
 Tags: analytics, google, javascript,analytics, analytics dashboard, dashboard, google, google analytics, google analytics dashboard, google analytics widget, multisite, Realtime,wpmu,statistics, widget, GA code, Google Analytics in WordPress, remarketing analytics,universal analytics, WordPress Google Analytics,display advertising, GA code, GA code integration, GA Plugin, GA Script, google,Google Analytics in WordPress,statistics, universal analytics,WP Google Analytics, WP Google Analytics, Plugin,clicky, code, google, google analytic,PhpSword, piwik, Realtime, stats, tracking, Web Statistics, yahoo,GA code, GA code integration, GA Plugin,WordPress Google Analytics, WP Google Analytics, WP Google Analytics Plugin, display advertising, GA code, google analytics, Google Analytics in WordPress, universal analytics, WordPress Google Analytics,analytics, display advertising, GA code, GA code integration, GA Plugin, GA Script, google, google analytics, Google Analytics in WordPress, tracking code, universal analytics, WordPress Google Analytics, WP Google Analytics, WP Google Analytics Plugin, google,monitor, plugin, reports, shortcode, statistic, techgasp, widget, wordpress.
 
