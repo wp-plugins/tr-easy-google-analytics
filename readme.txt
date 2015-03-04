@@ -23,17 +23,17 @@ Plugin Features !!!!!
 * Easy to use.
 * Copy the Tracking Code and paste after install the plugin.
 
-
-* [Our Others WordPress Plugins](//wordpress.org/plugins/search.php?q=bestthemeroad)
- * [Easy Responsive Google Map](//wordpress.org/plugins/easy-responsive-google-map/)
- * [Amazing Pricing Table](//wordpress.org/plugins/amazing-pricing-table/)
- * [Developers Total Widgets](wordpress.org/plugins/developers-total-widgets/)
- * [Perfect Client Testimonial](wordpress.org/plugins/perfect-client-testimonial/)
- * [Wp Nice Responsive Faq](wordpress.org/plugins/nice-responsive-wp-faq/)
+ 
+* [Our Others WordPress Plugins](https://wordpress.org/plugins/search.php?q=bestthemeroad)
+ * [Easy Responsive Google Map](https://wordpress.org/plugins/easy-responsive-google-map/)
+ * [Amazing Pricing Table](https://wordpress.org/plugins/amazing-pricing-table/)
+ * [Developers Total Widgets](https://wordpress.org/plugins/developers-total-widgets/)
+ * [Perfect Client Testimonial](https://wordpress.org/plugins/perfect-client-testimonial/)
+ * [Nice Responsive WP Faq](https://wordpress.org/plugins/nice-responsive-wp-faq/)
  * [Easy Google Webmaster Tools](https://wordpress.org/plugins/easy-webmaster-tools/)
  * [WP Custom Header Footer](https://wordpress.org/plugins/wp-custom-header-footer/)
  * [TR WP Custom Login Page](https://wordpress.org/plugins/tr-wp-custom-login-page/)
- * [TR Recent Post View By Category](https://wordpress.org/plugins/tr-recent-post-view-by-category/)
+ * [TR Recent Post View By Category](https://wordpress.org/plugins/tr-recent-post-view-by-category/) 
 
 
 == Installation ==
