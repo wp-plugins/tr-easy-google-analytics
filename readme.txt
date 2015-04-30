@@ -6,7 +6,7 @@ Donate link:
 Tags: analytics, google, javascript,analytics, analytics dashboard, dashboard, google, google analytics, google analytics dashboard, google analytics widget, multisite, Realtime,wpmu,statistics, widget, GA code, Google Analytics in WordPress, remarketing analytics,universal analytics, WordPress Google Analytics,display advertising, GA code, GA code integration, GA Plugin, GA Script, google,Google Analytics in WordPress,statistics, universal analytics,WP Google Analytics, WP Google Analytics, Plugin,clicky, code, google, google analytic,PhpSword, piwik, Realtime, stats, tracking, Web Statistics, yahoo,GA code, GA code integration, GA Plugin,WordPress Google Analytics, WP Google Analytics, WP Google Analytics Plugin, display advertising, GA code, google analytics, Google Analytics in WordPress, universal analytics, WordPress Google Analytics,analytics, display advertising, GA code, GA code integration, GA Plugin, GA Script, google, google analytics, Google Analytics in WordPress, tracking code, universal analytics, WordPress Google Analytics, WP Google Analytics, WP Google Analytics Plugin, google,monitor, plugin, reports, shortcode, statistic, techgasp, widget, wordpress.
 
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
